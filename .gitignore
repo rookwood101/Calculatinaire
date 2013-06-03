@@ -219,3 +219,8 @@ pip-log.txt
 #############
 
 *.sublime-workspace
+
+#############
+#This Project
+#############
+CALCULATINAIRE/**/*.js
