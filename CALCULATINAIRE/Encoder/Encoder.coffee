@@ -1,1 +1,0 @@
-CALCULATINAIRE.Encoder = {}
