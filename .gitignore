@@ -224,4 +224,5 @@ pip-log.txt
 #This Project
 #############
 CALCULATINAIRE/**/*.js
+CALCULATINAIRE.js
 doc/
